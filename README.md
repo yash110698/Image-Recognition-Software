@@ -19,8 +19,6 @@ The Software uses Voila-Jones object detection framework provided by OpenCV libr
 :-------------------------:|:-------------------------: 
  *Input image* | *Image Gradient*
 
-
-<br/>
 <br/>
 
 <img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/4.Hough-2d.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/5.HL1F.jpg" width=380>
@@ -28,13 +26,20 @@ The Software uses Voila-Jones object detection framework provided by OpenCV libr
  *Hough Space for Circles* | *Hough Space for Lines*
 
 <br/>
-<br/>
 
 <img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/4.Hough-Circles.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/5.hough-Lines.jpg" width=500>
 :-------------------------:|:-------------------------: 
  *Hough Circle detection* | *Hough Line detection*
  
+<br/>
+
+<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/all%20detect/1/detected1-.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/c1.jpg" width=500>
+:-------------------------:|:-------------------------: 
+ |*Successfully detected dartboard* |
  
+ 
+ <br/>
+ <br/>
  
  
  

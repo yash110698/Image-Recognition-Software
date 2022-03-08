@@ -23,7 +23,7 @@ The Software uses Voila-Jones object detection framework provided by OpenCV libr
 <br/>
 <br/>
 
-<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/4.Hough-2d.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/5.HL1F.jpg" width=500>
+<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/4.Hough-2d.jpg" width=700> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/5.HL1F.jpg" width=300>
 :-------------------------:|:-------------------------: 
  *Hough Space for Circles* | *Hough Space for Lines*
 

@@ -34,7 +34,7 @@ The Software uses Voila-Jones object detection framework provided by OpenCV libr
 <br/>
 
 <img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/all%20detect/1/detected1-.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/c1.jpg" width=500>
-:-------------------------:|:-------------------------: 
+| :-: |
  *Successfully detected dartboard* 
  
  

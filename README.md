@@ -9,12 +9,13 @@ But in a widely discussed 2019 study, a group of researchers led by Emma Strubel
 This project is supposed to test if a competent computer vision software can be achieved without using deep learning techniques.
 
 
+The Software uses Voila-Jones object detection framework provided by OpenCV library and Hough transform methods to perform object and shape detection on input Images.
 
 
 
 <br/>
 
-| <img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/dart1.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/2.Gradient-Before-Normalization.jpg" width=500>
+<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/dart1.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/2.Gradient-Before-Normalization.jpg" width=500>
 :-------------------------:|:-------------------------: 
  *Input image* | *Image Gradient*
 
@@ -22,6 +23,20 @@ This project is supposed to test if a competent computer vision software can be 
 <br/>
 <br/>
 
+<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/4.Hough-2d.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/5.HL1F.jpg" width=500>
+:-------------------------:|:-------------------------: 
+ *Hough Space for Circles* | *Hough Space for Lines*
 
+<br/>
+<br/>
 
-The Software uses Voila-Jones object detection framework provided by OpenCV library and Hough transform methods to perform object and shape detection on input Images.
+<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/4.Hough-Circles.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/5.hough-Lines.jpg" width=500>
+:-------------------------:|:-------------------------: 
+ *Hough Circle detection* | *Hough Line detection*
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -14,9 +14,10 @@ This project is supposed to test if a competent computer vision software can be 
 
 <br/>
 
-| <img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/dart1.jpg" width=500> |
-| :-: |
-| *Input image* |
+| <img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/dart1.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/2.Gradient-Before-Normalization.jpg" width=500>
+:-------------------------:|:-------------------------: 
+ *Input image* | *Image Gradient*
+
 
 <br/>
 <br/>

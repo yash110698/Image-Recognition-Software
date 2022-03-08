@@ -14,7 +14,7 @@ This project is supposed to test if a competent computer vision software can be 
 
 <br/>
 
-| <img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/5.hough-Lines.jpg" width= > |
+| <img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/Circle%20Detect/c1.jpg" width= > |
 | :-: |
 | *Input image* |
 

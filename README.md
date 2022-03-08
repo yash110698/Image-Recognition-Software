@@ -11,9 +11,21 @@ This project is supposed to test if a competent computer vision software can be 
 
 The Software uses Voila-Jones object detection framework provided by OpenCV library and Hough transform methods to perform object and shape detection on input Images.
 
-
+[click here for report](https://github.com/yash110698/Image-Recognition-Software/blob/main/report_updated.pdf)
 
 <br/>
+<br/>
+
+## Face detection with Viola-Jones 
+
+<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/VJ-face-detect/dart4_Truth.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/VJ-face-detect/dart5_Truth.jpg" width=500>
+:-------------------------:|:-------------------------: 
+ *image with 1 face* | *Image with multiple faces*
+
+<br/>
+<br/>
+
+## Dartboard detection with Hough Transfrom 
 
 <img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/dart1.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image%20Data/edges/2.Gradient-Before-Normalization.jpg" width=500>
 :-------------------------:|:-------------------------: 

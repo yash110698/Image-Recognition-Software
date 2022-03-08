@@ -18,7 +18,7 @@ The Software uses Voila-Jones object detection framework provided by OpenCV libr
 
 ## Face detection with Viola-Jones 
 
-<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/VJ-face-detect/dart4_Truth.jpg" width=500> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/VJ-face-detect/dart5_Truth.jpg" width=500>
+<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/VJ-face-detect/dart4_Truth.jpg" width=450> |<img src="https://github.com/yash110698/Image-Recognition-Software/blob/main/Image-readme/VJ-face-detect/dart5_Truth.jpg" width=550>
 :-------------------------:|:-------------------------: 
  *image with 1 face* | *Image with multiple faces*
 
